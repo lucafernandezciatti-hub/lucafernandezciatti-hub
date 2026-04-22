@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**lucafernandezciatti-hub/lucafernandezciatti-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Luca Mateo Fernández Ciatti
 
-Here are some ideas to get you started:
+I'm a Digital Technology student at Universidad Torcuato Di Tella (UTDT), with a strong academic background and interest in data analysis, algorithms and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- GPA: 9.76 / 10  
+- IB Diploma Programme: 44/45 (top score among ACCBIRP schools)  
+- Research Assistant at UTDT Neuroscience Lab (Feb 2025 – Aug 2025)
+
+## Skills
+- Programming: Python, C, C++, R, Assembly  
+- Data Analysis: R, R Markdown 
+- Tools: Git, Google Workspace, Microsoft Office  
+
+## Current interests
+- Data analysis and statistical modeling  
+- Algorithms and problem solving    
+
+## Projects
+Currently working on uploading academic and personal projects.
+
+## Contact
+- Email: lucafernandezciatti@gmail.com  
