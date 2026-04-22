@@ -17,8 +17,16 @@ I'm a Digital Technology student at Universidad Torcuato Di Tella (UTDT), with a
 - Data analysis and statistical modeling  
 - Algorithms and problem solving    
 
-## Projects
-Currently working on uploading academic and personal projects.
+### Seam Carving Algorithms (C++)
+Implementation and analysis of seam carving algorithms using brute force, backtracking and dynamic programming.  
+Includes performance comparison and experimental analysis.  
+https://github.com/lucafernandezciatti-hub/seam-carving-algorithms
+
+### HTTP File Transfer Server (Python, Sockets)
+Custom HTTP server built with sockets, supporting file upload/download, authentication and gzip compression.  
+Includes analysis of performance and network behavior.  
+https://github.com/lucafernandezciatti-hub/http-file-server-sockets
+
 
 ## Contact
 - Email: lucafernandezciatti@gmail.com  
